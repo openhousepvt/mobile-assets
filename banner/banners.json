@@ -2,19 +2,19 @@
   {
     "id": 1,
     "name": "Banner 1",
-    "srcUrl": "",
+    "srcUrl": "https://raw.githubusercontent.com/openhousepvt/mobile-assets/main/banner/banner.png",
     "openLink": "https://www.google.co.in"
   },
   {
     "id": 2,
     "name": "Banner 2",
-    "srcUrl": "",
+    "srcUrl": "https://raw.githubusercontent.com/openhousepvt/mobile-assets/main/banner/banner.png",
     "openLink": "https://www.google.co.in"
   },
   {
     "id": 3,
     "name": "Banner 3",
-    "srcUrl": "",
+    "srcUrl": "https://raw.githubusercontent.com/openhousepvt/mobile-assets/main/banner/banner.png",
     "openLink": "https://www.google.co.in"
   }
 ]
