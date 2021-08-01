@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Banner 1",
+    "srcUrl": "",
+    "openLink": "https://www.google.co.in"
+  },
+  {
+    "id": 2,
+    "name": "Banner 2",
+    "srcUrl": "",
+    "openLink": "https://www.google.co.in"
+  },
+  {
+    "id": 3,
+    "name": "Banner 3",
+    "srcUrl": "",
+    "openLink": "https://www.google.co.in"
+  }
+]
