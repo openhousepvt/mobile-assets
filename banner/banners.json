@@ -1,26 +1,26 @@
 [
-  {
-    "id": 1,
-    "name": "Banner 1",
-    "srcUrl": "https://dev-mobile-asset.fra1.digitaloceanspaces.com/banners/Banner-1.jpeg",
-    "openLink": "https://www.google.co.in"
-  },
-  {
-    "id": 2,
-    "name": "Banner 2",
-    "srcUrl": "https://dev-mobile-asset.fra1.digitaloceanspaces.com/banners/Banner-2.jpeg",
-    "openLink": "https://www.google.co.in"
-  },
-  {
-    "id": 3,
-    "name": "Banner 3",
-    "srcUrl": "https://dev-mobile-asset.fra1.digitaloceanspaces.com/banners/Banner-3.jpeg",
-    "openLink": "https://www.google.co.in"
-  },
-  {
-    "id": 4,
-    "name": "Banner 4",
-    "srcUrl": "https://raw.githubusercontent.com/openhousepvt/mobile-assets/main/banner/banner.png",
-    "openLink": "https://www.google.co.in"
-  }
+    {
+        "id": 1,
+        "name": "Banner 1",
+        "srcUrl": "https://dev-mobile-asset.fra1.digitaloceanspaces.com/banners/Banner-1.png",
+        "openLink": "https://www.google.co.in"
+    },
+    {
+        "id": 2,
+        "name": "Banner 2",
+        "srcUrl": "https://dev-mobile-asset.fra1.digitaloceanspaces.com/banners/Banner-2.png",
+        "openLink": "https://www.google.co.in"
+    },
+    {
+        "id": 3,
+        "name": "Banner 3",
+        "srcUrl": "https://dev-mobile-asset.fra1.digitaloceanspaces.com/banners/Banner-3.png",
+        "openLink": "https://www.google.co.in"
+    },
+    {
+        "id": 4,
+        "name": "Banner 4",
+        "srcUrl": "https://raw.githubusercontent.com/openhousepvt/mobile-assets/main/banner/banner.png",
+        "openLink": "https://www.google.co.in"
+    }
 ]
