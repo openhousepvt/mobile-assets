@@ -1,20 +1,38 @@
 [
     {
         "id": 1,
+        "name": "Banner 1",
+        "srcUrl": "https://dev-mobile-asset.fra1.digitaloceanspaces.com/banners/Banner-1.png",
+        "openLink": "https://www.google.co.in"
+    },
+    {
+        "id": 2,
+        "name": "Banner 2",
+        "srcUrl": "https://dev-mobile-asset.fra1.digitaloceanspaces.com/banners/Banner-2.png",
+        "openLink": "https://www.google.co.in"
+    },
+    {
+        "id": 3,
         "name": "Banner 3",
         "srcUrl": "https://dev-mobile-asset.fra1.digitaloceanspaces.com/banners/Banner-3.png",
         "openLink": "https://www.google.co.in"
     },
     {
-        "id": 2,
+        "id": 4,
         "name": "Banner 4",
         "srcUrl": "https://dev-mobile-asset.fra1.digitaloceanspaces.com/banners/Banner-4.png",
         "openLink": "https://www.google.co.in"
     },
     {
-        "id": 3,
+        "id": 5,
         "name": "Banner 5",
         "srcUrl": "https://dev-mobile-asset.fra1.digitaloceanspaces.com/banners/Banner-5.png",
+        "openLink": "https://www.google.co.in"
+    },
+    {
+        "id": 6,
+        "name": "Banner 6",
+        "srcUrl": "https://raw.githubusercontent.com/openhousepvt/mobile-assets/main/banner/banner.png",
         "openLink": "https://www.google.co.in"
     }
 ]
