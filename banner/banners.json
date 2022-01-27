@@ -32,6 +32,12 @@
     {
         "id": 6,
         "name": "Banner 6",
+        "srcUrl": "https://dev-mobile-asset.fra1.digitaloceanspaces.com/banners/Banner-6.png",
+        "openLink": "https://www.google.co.in"
+    },
+    {
+        "id": 7,
+        "name": "Banner 7",
         "srcUrl": "https://raw.githubusercontent.com/openhousepvt/mobile-assets/main/banner/banner.png",
         "openLink": "https://www.google.co.in"
     }
